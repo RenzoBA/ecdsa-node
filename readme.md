@@ -4,6 +4,7 @@ This project is an example of using a client and server to facilitate transfers 
 
 However, something that we would like to incoporate is Public Key Cryptography. By using Elliptic Curve Digital Signatures we can make it so the server only allows transfers that have been signed for by the person who owns the associated address.
 
+<<<<<<< HEAD
 ## Private & Public keys
 
 private key: ada6c514ce53e63a81ec4a2fd7a8fc95ef4410e08e5ec2b4a837d839438d1aee
@@ -15,6 +16,13 @@ public key: 044ec1d2f8e4887d7339fa101d9591f99439447bfd4cb39b164fe2c1d5564c0d0e9b
 private key: 0f78d3eb9a831085d0ed2d647311437cd7b105661b0efc4750b2fc2b817f992f
 public key: 048012cd4f5c74859c77df48361e84a306acc4460f519e955e73ffcf14f55c06f682583e9878a933f27de523c2418a730a52155de108ce93c38b486e8a69bc0017
 
+=======
+### Video instructions
+For an overview of this project as well as getting started instructions, check out the following video:
+
+https://www.loom.com/share/0d3c74890b8e44a5918c4cacb3f646c4
+ 
+>>>>>>> 367b23f57976addc4c79f1ac470ba1bb37af50e7
 ### Client
 
 The client folder contains a [react app](https://reactjs.org/) using [vite](https://vitejs.dev/). To get started, follow these steps:
